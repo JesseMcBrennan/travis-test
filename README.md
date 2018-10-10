@@ -2,3 +2,10 @@
 
 Test the viability of TravisCI for continuous integration in coursework.
 
+## SEtup Instructions
+
+(remove these later for next mod...)
+
+1. Clone down rep
+1. Run `npm install`
+1. Create database `psql`
